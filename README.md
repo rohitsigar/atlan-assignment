@@ -8,7 +8,9 @@ Create, design and implement a web-based application capable of running SQL quer
 
 [![GitHub](https://img.shields.io/website?url=https://www.codingspace.codes&logo=github&style=flat-square)](https://github.com/rohitsigar/atlan-assignment)
 
-Try out the website: [SQL Editor](https://atlan-assignment-tau.vercel.app/)
+Try out the website: [https://atlan-assignment-tau.vercel.app](https://atlan-assignment-tau.vercel.app/)
+
+Used ReactJs and TailwindCSS to build this web page.
 
 ## 👨‍💻 Features
 
@@ -19,9 +21,9 @@ Try out the website: [SQL Editor](https://atlan-assignment-tau.vercel.app/)
 
 ## ⏱ Performance Scheenshot
 
-![Performance](https://github.com/rohitsigar/atlan-assignment/blob/main/public/performance.jpeg)
+- Used Lighthouse tool to check the performance which runs a series of tests against the web page, then generates a report on how well your web page performed in those tests.
 
-### [web.dev Report](https://pagespeed.web.dev/)
+![Performance](https://github.com/rohitsigar/atlan-assignment/blob/main/public/performance.jpeg)
 
 ## 🪜 How I Optimizing the Page Load Time and other metrics
 
